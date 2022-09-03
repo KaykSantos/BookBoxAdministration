@@ -1,9 +1,9 @@
 <?php
   header("Access-Control-Allow-Origin: *");
   session_start();
-  $user = 'devjekvf_user';
-  $pass = 'niohectmuckz';
-  $banco = 'devjekvf_biblioteca';
+  $user = 'root';
+  $pass = '';
+  $banco = 'projetobiblioteca';
   $server = 'localhost';
   $conn = new mysqli($server, $user, $pass, $banco);
   if(!$conn){
