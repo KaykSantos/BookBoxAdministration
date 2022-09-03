@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acervo</title>
+    <link rel="stylesheet" href="../css/style.css">
+    
+</head>
+<body id="body-acervo">
+    <header>
+        <div><img src="../imgs/logo/logoazul.png" alt="logo" height="50px"></div>
+        <p>Acervo</p>
+    </header>
+    <nav>
+        <div class="card">
+            <a href="homeUser.html">Acervo</a>  
+        </div>
+        <div class="card">
+            <a href="cadUsuario.php">Usuário</a>  
+        </div>
+        <div class="card">
+            <a href="cadLivro.php">Livro</a>  
+        </div>
+        <div class="card">
+            <a href="cadGenero.php">Gênero</a>  
+        </div>
+        <div class="card">
+            <a href="cadEditora.php">Editora</a>  
+        </div>
+        <div class="card">
+            <a href="cadAutor.php">Autor</a>  
+        </div>
+        
+        <input type="text" name="pesquisa" id="pesquisa" placeholder="Barra de pesquisa">
+        <button id="btnpesquisa" value="pesquisar"><img src="../imgs/img/lupa.png" alt="lupa" height="20px"></button>
+        <label for="filtros" style="color: rgb(247, 247, 247);;">Filtros</label>
+        <select name="filtros" id="filtros">
+            <option value="none"></option>
+            <option value="Nome">Nome</option>
+            <option value="autor">Autor</option>
+            <option value="genero">Gênero</option>
+            <option value="classind">Classificação Indicativa</option>
+        </select>
+    </nav>
+    <main id="mainAcervo">
+        <script src="../components/script.js"></script>
+    </main>
+</body>
+</html>

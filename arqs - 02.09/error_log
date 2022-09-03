@@ -1,0 +1,102 @@
+[20-Aug-2022 16:31:14 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/devjekvf/public_html/biblioteca.php on line 7
+[20-Aug-2022 16:31:32 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/devjekvf/public_html/biblioteca.php on line 7
+[20-Aug-2022 16:31:32 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/devjekvf/public_html/biblioteca.php on line 15
+[20-Aug-2022 16:31:42 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/devjekvf/public_html/biblioteca.php on line 7
+[20-Aug-2022 16:31:42 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/devjekvf/public_html/biblioteca.php on line 15
+[22-Aug-2022 18:29:56 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:30:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:30:50 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:31:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:34:47 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:40:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:45:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:47:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:47:56 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:48:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:48:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:26) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:49:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:26) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:54:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:56:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:57:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:57:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:57:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 18:57:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 19:01:15 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 19:01:22 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 19:02:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 19:04:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[22-Aug-2022 19:04:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 11:14:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 11:28:43 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:11:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:11:09 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:11:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:11:33 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:20:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:20:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:20:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:22:22 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:22:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 12:25:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 14:32:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 14:33:09 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 14:33:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 14:33:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:27) in /home1/devjekvf/public_html/index.php on line 21
+[23-Aug-2022 14:35:24 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/devjekvf/public_html/biblioteca.php on line 8
+[23-Aug-2022 14:35:35 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/devjekvf/public_html/biblioteca.php on line 8
+[23-Aug-2022 14:35:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/devjekvf/public_html/biblioteca.php on line 16
+[23-Aug-2022 14:35:50 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/devjekvf/public_html/biblioteca.php on line 8
+[23-Aug-2022 14:35:50 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/devjekvf/public_html/biblioteca.php on line 16
+[24-Aug-2022 09:00:22 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/devjekvf/public_html/biblioteca.php:28) in /home1/devjekvf/public_html/index.php on line 21
+[29-Aug-2022 12:26:02 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$cd' (T_VARIABLE) in /home1/devjekvf/public_html/livro.php on line 6
+[29-Aug-2022 12:26:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$cd' (T_VARIABLE) in /home1/devjekvf/public_html/livro.php on line 6
+[29-Aug-2022 12:26:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 12:26:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 12:26:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 12:26:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 12:27:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 13:25:01 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:46:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:47:34 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:47:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:47:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:47:36 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:49:46 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:49:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:49:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:52:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home1/devjekvf/public_html/biblioteca.php on line 142
+[29-Aug-2022 17:58:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$cd' (T_VARIABLE) in /home1/devjekvf/public_html/livro.php on line 6
+[29-Aug-2022 17:59:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$cd' (T_VARIABLE) in /home1/devjekvf/public_html/livro.php on line 6
+[29-Aug-2022 18:39:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home1/devjekvf/public_html/livro.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/devjekvf/public_html/livro.php on line 11
+[29-Aug-2022 18:39:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home1/devjekvf/public_html/livro.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/devjekvf/public_html/livro.php on line 11
+[29-Aug-2022 18:39:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home1/devjekvf/public_html/livro.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/devjekvf/public_html/livro.php on line 11
+[29-Aug-2022 18:39:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home1/devjekvf/public_html/livro.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/devjekvf/public_html/livro.php on line 11
